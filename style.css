@@ -1,0 +1,49 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand img
+{
+    height: 40px;
+    padding-left: 30px;
+}
+.navbar-nav{
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.myMargin{
+    margin-left: 50px;
+    margin-bottom: 15px;
+    padding-left: 50px;
+    
+}
+.myMargin2{
+    margin: 3px;
+    margin-left: 22px;
+    margin-top: 5px;
+
+}
+.container{
+    margin-top: 80px;
+   
+}
+.col-md-4{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    float: left;
+}
+.ip{
+    padding-left: 20px;
+}
+.key{
+    margin-top: 30px;
+}
+.footer{
+    margin-top: 620px;
+    background-color: rgb(142, 142, 235);
+    height:30px;
+    text-align: center;
+}
+
